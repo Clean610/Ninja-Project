@@ -2,14 +2,12 @@
 import uuid
 
 from django.core.validators import MinValueValidator, MaxValueValidator
-# ---------- Django Tools Rest Framework, Oauth 2 Tools ---------------------------------------------------------------
+# ---------- Django Tools  --------------------------------------------------------------------------------------------
 from django.db import models
 from django.contrib.auth.models import AbstractUser
 from django.db.models import Q
 
 from safedelete.models import SafeDeleteModel, SOFT_DELETE
-
-
 # ---------- Created Tools --------------------------------------------------------------------------------------------
 
 

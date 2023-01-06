@@ -1,6 +1,6 @@
 # ---------- Python's Libraries ---------------------------------------------------------------------------------------
 
-# ---------- Django Tools Rest Framework, Oauth 2 Tools ---------------------------------------------------------------
+# ---------- Django Tools  --------------------------------------------------------------------------------------------
 from ninja import NinjaAPI
 from apis.schemas import SchoolSchema, HeadMasterSchemaOut, HeadMasterSchemaIn, ClassSchemaIn, ClassSchemaOut, \
     StudentSchemaIn, StudentSchemaOut, TeacherSchemaIn, TeacherSchemaOut
